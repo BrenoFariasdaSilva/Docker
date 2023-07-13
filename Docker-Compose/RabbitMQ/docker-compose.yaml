@@ -1,19 +1,19 @@
-version: "3.1"  # Version of the Docker Compose file syntax being used
+version: "3.1" # Version of the Docker Compose file syntax being used
 
 services: # Define the services/containers being used. Services are containers which are built from the images we specify in the 'image' field
   rabbitmq: # Define a service named 'rabbitmq'
-    image: rabbitmq:3  # Use the 'rabbitmq:3' Docker image for the RabbitMQ service
-    container_name: rabbitmq-tweets  # Set the container name to 'rabbitmq-tweets'
-    hostname: my-rabbit  # Set the hostname of the container to 'my-rabbit'
-    networks:
-      mynetwork:  # Connect the container to the 'mynetwork' network
+    image: rabbitmq:3 # Use the 'rabbitmq:3' Docker image for the RabbitMQ service
+    container_name: rabbitmq-tweets # Set the container name to 'rabbitmq-tweets'
+    hostname: my-rabbit # Set the hostname of the container to 'my-rabbit'
+    networks: # Define the networks the container should be connected to
+      mynetwork: # Connect the container to the 'mynetwork' network
         ipv4_address: 172.20.0.30  # Assign the IP address '172.20.0.30' to the container
-    ports:
-      - 5672:5672  # Map host port 5672 to container port 5672
-    restart: unless-stopped  # Restart the container unless explicitly stopped
+    ports: # Expose ports on the host
+      - 5672:5672 # Map host port 5672 to container port 5672
+    restart: unless-stopped # Restart the container unless explicitly stopped
 
 networks: # Define the networks being used
-  mynetwork:  # Define a custom network named 'mynetwork'
-    ipam:  # IP Address Management (IPAM) configuration for the network
+  mynetwork: # Define a custom network named 'mynetwork'
+    ipam: # IP Address Management (IPAM) configuration for the network
       config:
-        - subnet: 172.20.0.0/16  # Specify the IP address subnet for the network as '172.20.0.0/16'
+        - subnet: 172.20.0.0/16 # Specify the IP address subnet for the network as '172.20.0.0/16'
