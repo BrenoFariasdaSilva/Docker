@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Run:
-# chmod +x DockerCommands.sh
-# sudo ./DockerCommands.sh
+# chmod +x docker-commands.sh
+# sudo ./docker-commands.sh
 
 # Docker Boot on Startup
 sudo systemctl enable docker.service

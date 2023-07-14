@@ -35,7 +35,7 @@ This repository provides the following scripts:
 
 - **docker-commands.sh**: This script includes a collection of commonly used Docker commands, such as starting and stopping containers, managing images and volumes, and executing commands within containers. It serves as a handy reference for Docker operations.
 
-- **hardreset.sh**: Use this script to clean up your Docker environment. It stops and removes all running containers, removes all created volumes, and deletes any unused networks.
+- **docker-hardreset.sh**: Use this script to clean up your Docker environment. It stops and removes all running containers, removes all created volumes, and deletes any unused networks.
 
 ## Docker Compose Files
 
