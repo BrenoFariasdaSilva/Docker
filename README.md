@@ -31,7 +31,7 @@ To use the scripts and Docker Compose files in this repository, you need to have
 
 This repository provides the following scripts:
 
-- **docker-install.sh**: This script automates the installation of Docker on Linux-based systems. It handles the installation of Docker Engine and Docker Compose, ensuring that you have the necessary dependencies for running containers and managing Docker services.
+- **docker-install.sh**: This script automates the installation of Docker on Linux-based systems. It handles the installation of Docker Engine and Docker Compose, ensuring that you have the necessary dependencies for running containers and managing Docker services. Keep in mind that you must installed the Docker UI (like Docker or DockStation) by yourself, because it is not included in this script.
 
 - **docker-commands.sh**: This script includes a collection of commonly used Docker commands, such as starting and stopping containers, managing images and volumes, and executing commands within containers. It serves as a handy reference for Docker operations.
 
