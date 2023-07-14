@@ -18,7 +18,7 @@ This repository contains a collection of useful scripts for Docker installation,
 
 ## Installation
 
-To use the scripts and Docker Compose files in this repository, you need to have Docker installed on your system. If you haven't installed Docker yet, just run:
+To use the scripts and Docker Compose files in this repository, you need to have Docker installed on your system. If you haven't installed Docker yet, just run the following commands in the root directory of this project:
    ```bash
    cd Docker-Scripts
    chmod +x docker-install.sh
