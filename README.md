@@ -10,6 +10,12 @@ This repository contains a collection of useful scripts for Docker installation,
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Docker.svg" alt="wakatime" />
 </p>
 
+<div align="center">
+  
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/6eba21b57d395bbeb9861fc8d2b9967515552e0b.svg "Repobeats analytics image")
+
+</div>
+
 ## Table of Contents
 
 - [Docker Scripts and Docker Compose Files](#docker-scripts-and-docker-compose-files)
