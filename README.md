@@ -4,7 +4,15 @@
 
 </div>
 
+<div align="center">
+  
+---
+
 This repository contains a collection of useful scripts for Docker installation, common Docker commands, and several Docker Compose files for popular services like PostgreSQL, RabbitMQ, and MongoDB. These resources aim to simplify the setup and management of containerized environments.
+  
+---
+
+</div>
 
 <p align="center">
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Docker.svg" alt="wakatime" />
