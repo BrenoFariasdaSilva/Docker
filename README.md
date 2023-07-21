@@ -14,10 +14,14 @@ This repository contains a collection of useful scripts for Docker installation,
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Docker.svg" alt="wakatime" />
-</p>
+<div align="center">
 
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Docker)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Docker)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Docker)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Docker.svg)
+
+</div>
 <div align="center">
   
 ![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/6eba21b57d395bbeb9861fc8d2b9967515552e0b.svg "Repobeats analytics image")
