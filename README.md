@@ -30,7 +30,7 @@ This repository contains a collection of useful scripts for Docker installation,
 
 ## Table of Contents
 
-- [Docker Scripts and Docker Compose Files](#docker-scripts-and-docker-compose-files)
+- [Docker Scripts and Docker Compose Files. ](#docker-scripts-and-docker-compose-files-)
 	- [Table of Contents](#table-of-contents)
 	- [Installation](#installation)
 	- [Scripts](#scripts)
@@ -41,6 +41,7 @@ This repository contains a collection of useful scripts for Docker installation,
 	- [What is Docker and Why is it Useful?](#what-is-docker-and-why-is-it-useful)
 	- [Arguments in a `docker run` Command](#arguments-in-a-docker-run-command)
 	- [Docker Compose Fields](#docker-compose-fields)
+	- [License](#license)
 
 ## Installation
 
@@ -189,3 +190,6 @@ These commands streamline the management of your Docker Compose environment, all
 Refer to the [official Docker Compose documentation](https://docs.docker.com/compose/compose-file/) for more details on the available fields and their configurations.
 
 Happy Dockerizing!
+
+## License
+This project is licensed under the [Creative Commons Zero v1.0 Universal](LICENSE), which means you are free to use, modify, and distribute the code. See the [LICENSE](LICENSE) file for more details.
