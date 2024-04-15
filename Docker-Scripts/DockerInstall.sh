@@ -1,10 +1,10 @@
 #!/bin/sh
 
 # Run:
-# chmod +x docker-install.sh
-# sudo ./docker-install.sh
+# chmod +x DockerInstall.sh
+# sudo ./DockerInstall.sh
 
-# Curl: 
+# Curl:
 sudo apt install curl -y
 
 # Install Docker Commands:

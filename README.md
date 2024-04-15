@@ -49,8 +49,8 @@ This repository contains a collection of useful scripts for Docker installation,
 To use the scripts and Docker Compose files in this repository, you need to have Docker installed on your system. If you haven't installed Docker yet, just run the following commands in the root directory of this project:
    ```bash
    cd Docker-Scripts
-   chmod +x docker-install.sh
-   ./docker-install.sh
+   chmod +x DockerInstall.sh
+   ./DockerInstall.sh
    ```
 Or follow the instructions below from the official documentation:
 
@@ -68,11 +68,11 @@ Or follow the instructions below from the official documentation:
 
 This repository provides the following scripts:
 
-- **docker-install.sh**: This script automates the installation of Docker on Linux-based systems. It handles the installation of Docker Engine and Docker Compose, ensuring that you have the necessary dependencies for running containers and managing Docker services. Keep in mind that you must installed the Docker UI (like Docker or DockStation) by yourself, because it is not included in this script.
+- **DockerInstall.sh**: This script automates the installation of Docker on Linux-based systems. It handles the installation of Docker Engine and Docker Compose, ensuring that you have the necessary dependencies for running containers and managing Docker services. Keep in mind that you must installed the Docker UI (like Docker or DockStation) by yourself, because it is not included in this script.
 
-- **docker-commands.sh**: This script includes a collection of commonly used Docker commands, such as starting and stopping containers, managing images and volumes, and executing commands within containers. It serves as a handy reference for Docker operations.
+- **DockerCommands.sh**: This script includes a collection of commonly used Docker commands, such as starting and stopping containers, managing images and volumes, and executing commands within containers. It serves as a handy reference for Docker operations.
 
-- **docker-hardreset.sh**: Use this script to clean up your Docker environment. It stops and removes all running containers, removes all created volumes, and deletes any unused networks.
+- **DockerHardReset.sh**: Use this script to clean up your Docker environment. It stops and removes all running containers, removes all created volumes, and deletes any unused networks.
 
 ## Docker Compose Files
 

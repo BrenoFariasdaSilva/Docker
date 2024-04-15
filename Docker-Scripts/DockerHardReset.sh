@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Run:
-# chmod +x docker-hardreset.sh
-# sudo ./docker-hardreset.sh
+# chmod +x DockerHardReset.sh
+# sudo ./DockerHardReset.sh
 
 # Stop the container(s) using the following command:
 docker-compose down
