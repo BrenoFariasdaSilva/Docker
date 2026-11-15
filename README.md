@@ -20,14 +20,6 @@ This repository contains a collection of useful scripts for Docker installation,
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Docker)
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Docker)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Docker.svg)
-
-</div>
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Docker)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Docker)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Docker)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Docker.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Docker/main)](https://github.com/BrenoFariasdaSilva/Docker/commits/main)
 [![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker/network/members)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Docker)
@@ -42,7 +34,6 @@ This repository contains a collection of useful scripts for Docker installation,
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Docker/main)](https://github.com/BrenoFariasdaSilva/Docker/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Docker?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Docker/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-Shell-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/6eba21b57d395bbeb9861fc8d2b9967515552e0b.svg)
 
 </div>
