@@ -26,7 +26,6 @@ This repository contains a collection of useful scripts for Docker installation,
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Docker)](https://github.com/BrenoFariasdaSilva/Docker/pulls)
